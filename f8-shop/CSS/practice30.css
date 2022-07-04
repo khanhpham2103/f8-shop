@@ -1,0 +1,11 @@
+:root {
+    --decisive-color: #f05123;
+}
+
+a {
+    color: var(--decisive-color);
+}
+
+.list strong {
+    color: var(--decisive-color);
+}

@@ -1,0 +1,12 @@
+:root {
+    --heading-color: #ffd500;
+    --text-color: #28802e;
+}
+
+#heading {
+    color: var(--heading-color);
+}
+
+.desc {
+    color: var(--text-color);
+}
